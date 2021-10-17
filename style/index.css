@@ -1,3 +1,13 @@
-body {
-    font-size: 15pt;
+:root {
+  --Background-Color: #171717;
 }
+
+
+
+
+
+body {
+  background-color: var(--Background-Color);
+}
+
+
